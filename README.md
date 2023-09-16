@@ -16,4 +16,8 @@ Redpine is a no-code deployment service for rollups. It supports the most common
 Digger is a decentralized, high-performance, and cost-effective DA service. Built on Layer 3, off-chain storage, data availability sampling, and other technologies, it boasts leading industry scalability.
 <img src="./docs/Digger.png" />
 
-
+# Project presentation <br>
+- [PPT](docs/PineX.pdf)
+- [Pinex Website](https://pinex.it)
+- [Pinex Console](https://console.pinex.it)
+- [Redpine demo](docs/redpine_demo.mov)
