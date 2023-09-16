@@ -21,6 +21,4 @@ Digger is a decentralized, high-performance, and cost-effective DA service. Buil
 - [Pinex Website](https://pinex.it)
 - [Pinex Console](https://console.pinex.it)
 - [Pinex Redpine demo](docs/redpine_demo.mov)
-
-## Code
-- [Pinex Redpine backend](src/pinex-redpine-backend/)
+- [Pinex Redpine code](src/pinex-redpine-backend/)
